@@ -1,4 +1,4 @@
-# Linux-server-hardening-
+# Linux-server-hardening
 # Linux Server Hardening (Ubuntu 26.04 LTS)
 
 Scripts I use to secure Ubuntu Servers
